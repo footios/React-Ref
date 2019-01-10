@@ -1,0 +1,20 @@
+{
+	"name": "react-ref",
+	"version": "1.0.0",
+	"description": "Example from a course in Udemy: https://www.udemy.com/react-the-complete-guide-incl-redux/learn/v4/t/lecture/8103790?start=0",
+	"keywords": [],
+	"main": "src/index.js",
+	"dependencies": {
+		"react": "16.5.2",
+		"react-dom": "16.5.2",
+		"react-scripts": "2.0.3"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test --env=jsdom",
+		"eject": "react-scripts eject"
+	},
+	"browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
